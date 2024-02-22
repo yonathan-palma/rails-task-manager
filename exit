@@ -1,0 +1,15 @@
+=> 
+[[32m#<Task:0x00007fb6459d7260[0m
+  id: [34m[1m1[0m,
+  title: [31m[1m"[0m[31mLaundry[0m[31m[1m"[0m,
+  details: [31m[1m"[0m[31mDo not mix colors![0m[31m[1m"[0m,
+  completed: [36m[1mfalse[0m,
+  created_at: Thu, 22 Feb 2024 18:33:37.597786000 UTC +00:00,
+  updated_at: Thu, 22 Feb 2024 18:33:37.597786000 UTC +00:00[32m>[0m,
+ [32m#<Task:0x00007fb6459d70f8[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mStudying[0m[31m[1m"[0m,
+  details: [31m[1m"[0m[31mA lot of flashcards to do[0m[31m[1m"[0m,
+  completed: [36m[1mtrue[0m,
+  created_at: Thu, 22 Feb 2024 18:33:43.772487000 UTC +00:00,
+  updated_at: Thu, 22 Feb 2024 18:33:43.772487000 UTC +00:00[32m>[0m]

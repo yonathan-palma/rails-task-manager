@@ -1,0 +1,10 @@
+<h1>My Tasks</h1>
+<ul class="list-group list-group-flush">
+  <% @tasks.each do |task| %>
+  <li class="list-group-item">
+    <input type="checkbox" name="" id="" <%= "checked" if task.completed %>>
+    <%= link_to task.title %><br>
+    <%= task.title %>
+  </li>
+  <% end %>
+</ul>
