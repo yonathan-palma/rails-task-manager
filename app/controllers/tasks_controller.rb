@@ -15,6 +15,8 @@ class TasksController < ApplicationController
     # raise
     if @task.save
       redirect_to tasks_path
+    else
+      render :new, status: :unprocessable_entry
     end
   end
 
